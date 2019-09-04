@@ -1,0 +1,220 @@
+#EXTM3U
+#EXTINF:-1,Top Channel
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/28.ts
+#EXTINF:-1,Klan TV
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/27.ts
+#EXTINF:-1,Vizion Plus
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/26.ts
+#EXTINF:-1,Klan plus
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/86.ts
+#EXTINF:-1,news 24
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/75.ts
+#EXTINF:-1,Report tv
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/76.ts
+#EXTINF:-1,Ora news
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/74.ts
+#EXTINF:-1,Alsat
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/87.ts
+#EXTINF:-1,T HD Channel
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/56.ts
+#EXTINF:-1,tvsh
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/67.ts
+#EXTINF:-1,RTSH Muzik
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/73.ts
+#EXTINF:-1,Film Aksion
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/63.ts
+#EXTINF:-1,Film Komedi
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/58.ts
+#EXTINF:-1,Film Hits
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/59.ts
+#EXTINF:-1,Film Nje HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/57.ts
+#EXTINF:-1,Film Dy HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/60.ts
+#EXTINF:-1,Film Dram
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/61.ts
+#EXTINF:-1,Film Autor
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/62.ts
+#EXTINF:-1,EXP Shkenca
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/64.ts
+#EXTINF:-1,EXP Natyra
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/65.ts
+#EXTINF:-1,EXP Histori
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/66.ts
+#EXTINF:-1,Bang Bang
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/42.ts
+#EXTINF:-1,Junior
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/41.ts
+#EXTINF:-1,Jolly HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/40.ts
+#EXTINF:-1,Smil
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/88.ts
+#EXTINF:-1,Tring World
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/32.ts
+#EXTINF:-1,Tring Planet
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/31.ts
+#EXTINF:-1,Tring Histori
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/35.ts
+#EXTINF:-1,Tring Shqip
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/30.ts
+#EXTINF:-1,Tring Super
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/29.ts
+#EXTINF:-1,Tring Max
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/33.ts
+#EXTINF:-1,Tring Komedi
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/34.ts
+#EXTINF:-1,Tring Fantazi
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/36.ts
+#EXTINF:-1,Tring 3 Plus
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/38.ts
+#EXTINF:-1,Tring tring
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/89.ts
+#EXTINF:-1,ShqipTv Western HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/692.ts
+#EXTINF:-1,ShqipTV Tom & Jerry
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/687.ts
+#EXTINF:-1,ShqipTv Komedi HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/691.ts
+#EXTINF:-1,ShqipTv Horror HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/690.ts
+#EXTINF:-1,SHQIPTV Hindi HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/683.ts
+#EXTINF:-1,ShqipTV Film HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/685.ts
+#EXTINF:-1,ShqipTv Fantasy HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/689.ts
+#EXTINF:-1,ShqipTV Cinema
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/684.ts
+#EXTINF:-1,ShqipTv Aksion
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/688.ts
+#EXTINF:-1,EST: Vizion Plus
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/670.ts
+#EXTINF:-1,EST: Top Channel
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/669.ts
+#EXTINF:-1,EST: RTV 21
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/671.ts
+#EXTINF:-1,EST: RTK
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/672.ts
+#EXTINF:-1,EST: KTV
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/673.ts
+#EXTINF:-1,EST: Klan Tv
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/674.ts
+#EXTINF:-1,EST: Klan Plus
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/675.ts
+#EXTINF:-1,EST: Klan Kosova
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/676.ts
+#EXTINF:-1,OPOJA TV
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/77.ts
+#EXTINF:-1,syri tv
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/82.ts
+#EXTINF:-1,Jug tv
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/80.ts
+#EXTINF:-1,ALB UK MUSIC
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/84.ts
+#EXTINF:-1,ALB UK HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/85.ts
+#EXTINF:-1,Super Sport Kosova 2 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/55.ts
+#EXTINF:-1,Super Sport Kosova 1 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/54.ts
+#EXTINF:-1,Super SPORT 1 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/48.ts
+#EXTINF:-1,Super SPORT 2 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/49.ts
+#EXTINF:-1,Super SPORT 3 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/50.ts
+#EXTINF:-1,Super SPORT 4 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/51.ts
+#EXTINF:-1,Super SPORT 5 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/52.ts
+#EXTINF:-1,Tring Sport News HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/43.ts
+#EXTINF:-1,Tring Sport 1 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/44.ts
+#EXTINF:-1,Tring Sport 2 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/45.ts
+#EXTINF:-1,Tring Sport 3 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/46.ts
+#EXTINF:-1,Tring Sport 4 HD
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/47.ts
+#EXTINF:-1,Arena sport1
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/92.ts
+#EXTINF:-1,Arena sport 2
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/93.ts
+#EXTINF:-1,Arena sport 3
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/94.ts
+#EXTINF:-1,Arena sport 4
+#EXTVLCOPT:http-user-agent=mosevidhmoterqim
+http://163.172.211.229:8000/live/bellaroma/pizabellaroma/95.ts
